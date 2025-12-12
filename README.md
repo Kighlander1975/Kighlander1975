@@ -34,8 +34,8 @@
 <h2>:mag: Find me around the web:</h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/david-schuchert-0ab892283/" target="blank"><img align="center" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/linkedin/linkedin-original.svg" alt="linkdin" height="30" /></a>
-<a href="https://david-schuchert.de" target="blank"><img align="center" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/chrome/chrome-original.svg" alt="portfolio" height="30" /></a>
+<a href="[https://www.linkedin.com/in/david-schuchert-0ab892283/](https://www.linkedin.com/in/kai-akkermann-2700aa302/)" target="blank"><img align="center" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/linkedin/linkedin-original.svg" alt="linkdin" height="30" /></a>
+<a href="https://kighlander.de" target="blank"><img align="center" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/chrome/chrome-original.svg" alt="portfolio" height="30" /></a>
 </p>
 
 <h3 align="center">Contribution Snake</h3>
