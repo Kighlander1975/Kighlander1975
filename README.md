@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40" alt="waveicon"> I'm David!</h1>
+<h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40" alt="waveicon"> I'm Kighlander a.k.a. Kai!</h1>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Love-Design-CB9DF0?style=flat" />
@@ -7,11 +7,7 @@
 </p>
 
 <p align="left">
-:point_right:Hi! I’m a dedicated full-stack developer with a passion for creating robust, efficient, and user-friendly applications. With experience in both frontend and backend technologies, I strive to deliver seamless digital solutions that combine functionality and design.
-
-In addition to my work as a developer, I also serve as a lecturer at DBE-Academy, where I help students gain the skills and knowledge they need to succeed in the tech industry. Teaching allows me to share my expertise while staying connected to the latest trends and innovations in the field. Whether I’m coding or mentoring, I’m committed to continuous learning and growth.
-
-
+:point_right:
 </p>
 
 <summary>Skills & Tools :bulb:</summary>
