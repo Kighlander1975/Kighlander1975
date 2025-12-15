@@ -22,7 +22,7 @@ I gained practical experience through collaboration on projects for two provider
 
 I'm excited about offers as a Junior Developer – especially in web development (Frontend / Laravel / PHP).
 
-<summary>Skills & Tools :bulb:</summary>
+## Skills & Tools :bulb:
 <h3 align="center">Languages & Frameworks :computer:</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
