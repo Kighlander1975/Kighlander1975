@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Täglich
+    - cron: "0 0 * * *"  # Täglich um Mitternacht
   workflow_dispatch:
 
 jobs:
@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: Platane/snk@master
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Kighlander1975
-          outputs: output/github-snake-dark.svg
+          svg_out_path: output/github-snake-dark.svg
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
