@@ -10,6 +10,18 @@
 :point_right:
 </p>
 
+## About Me :wave:
+
+Hey there! I'm a friendly, helpful, and eager-to-learn guy with an unconventional background. Coming from a business background, I was last working as a professional truck driver before retraining as an IT specialist in application development for family reasons.
+
+Recently, I completed further training as a Frontend and Laravel developer. There, I was able to implement various projects, consolidate my existing skills, and learn new ones – especially in modern web development.
+
+So far, I've mainly programmed as a hobby. My tech stack includes HTML, CSS, JavaScript, PHP, and (My)SQL. Currently, I'm learning Next.js combined with React (among others via Udemy courses). During retraining, we worked intensively with Java – I haven't implemented my own projects with it yet, but I'd love to get a chance in this area too.
+
+I gained practical experience through collaboration on projects for two providers of prize poker events. I can show one of these projects in my portfolio, the other is unfortunately not public.
+
+I'm excited about offers as a Junior Developer – especially in web development (Frontend / Laravel / PHP).
+
 <summary>Skills & Tools :bulb:</summary>
 <h3 align="center">Languages & Frameworks :computer:</h3>
 <p align="center">
@@ -18,17 +30,26 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> <!-- Angular -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> <!-- Docker -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-plain.svg" alt="git" width="40" height="40"/> <!-- Git -->
-<img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/firebase/firebase-original-wordmark.svg" alt="firebase" width="40" height="40"/> <!-- Firebase -->
 <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> <!-- Laravel -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-original.svg" alt="codeigniter" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="40" height="40"/>
+</p>
+
+<h3 align="center">Design & Other Tools :art:</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-original.svg" alt="illustrator" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/indesign/indesign-original.svg" alt="indesign" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobe/adobe-original.svg" alt="adobe" width="40" height="40"/>
 </p>
 
 <h2>:mag: Find me around the web:</h2>
@@ -40,20 +61,23 @@
 
 <h3 align="center">Contribution Snake</h3>
 
-![snake gif](https://github.com/DavidSchuchert/DavidSchuchert/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Kighlander1975/Kighlander1975/blob/output/github-snake-dark.svg)
 
-
-<!--
-**daincoding/daincoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+  - dbe-final-project
+  - relaunch "pokergiants.de"
+  - relaunch "enymaxx.de"
 - 🌱 I’m currently learning ...
+  - React Native
+  - Node.js
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+  - Open source projects
 - 💬 Ask me about ...
+  - PHP vanilla
+  - OOP
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+  - As a graphic designer, illustrator
+  - Discussing code projects
 - ⚡ Fun fact: ...
--->
+  - 2B||!2B ;)
