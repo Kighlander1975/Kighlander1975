@@ -48,8 +48,6 @@ I'm excited about offers as a Junior Developer – especially in web development
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-original.svg" alt="illustrator" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/indesign/indesign-original.svg" alt="indesign" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobe/adobe-original.svg" alt="adobe" width="40" height="40"/>
 </p>
 
 <h2>:mag: Find me around the web:</h2>
