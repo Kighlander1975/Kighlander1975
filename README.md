@@ -64,20 +64,33 @@ I'm excited about offers as a Junior Developer – especially in web development
 ![GitHub Snake](https://raw.githubusercontent.com/Kighlander1975/Kighlander1975/output/github-contribution-grid-snake.svg)
 
 
-- 🔭 I’m currently working on ...
-  - dbe-final-project
-  - relaunch "pokergiants.de"
-  - relaunch "enymaxx.de"
-- 🌱 I’m currently learning ...
-  - React Native
-  - Node.js
-- 👯 I’m looking to collaborate on ...
+---
+
+### 🚀 What I’m up to
+
+- 🔭 **Currently working on**
+  - Final project for my developer training (**DBE Final Project**)
+  - Relaunch of **pokergiants.de**
+  - Relaunch of **enymaxx.de**
+
+- 🌱 **Currently learning**
+  - **React Native** – bringing apps to mobile
+  - **Node.js** – expanding my full‑stack skills
+
+- 👯 **Looking to collaborate on**
   - Open source projects
-- 💬 Ask me about ...
-  - PHP vanilla
-  - OOP
-- 📫 How to reach me: ...
-  - As a graphic designer, illustrator
-  - Discussing code projects
-- ⚡ Fun fact: ...
-  - 2B||!2B ;)
+  - Small to mid‑scale web apps (Frontend / Laravel / PHP)
+
+- 💬 **Ask me about**
+  - Clean **vanilla PHP** solutions
+  - **Object‑oriented programming (OOP)**
+  - Web layouts & design from a designer’s perspective
+
+- 📫 **How to reach me**
+  - For **graphic design & illustration**
+  - To **discuss code projects** or potential collaborations  
+  _(best via LinkedIn or my portfolio linked above)_
+
+- ⚡ **Fun fact**
+  - `2B || !2B` – that is the question 😉
+
