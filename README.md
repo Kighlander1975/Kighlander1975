@@ -61,7 +61,7 @@ I'm excited about offers as a Junior Developer – especially in web development
 
 <h3 align="center">Contribution Snake</h3>
 
-![GitHub Snake](https://raw.githubusercontent.com/Kighlander1975/Kighlander1975/output/dist/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Kighlander1975/Kighlander1975/output/github-contribution-grid-snake.svg)
 
 
 - 🔭 I’m currently working on ...
