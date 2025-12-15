@@ -39,7 +39,6 @@ I'm excited about offers as a Junior Developer – especially in web development
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-plain.svg" alt="git" width="40" height="40"/> <!-- Git -->
 <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> <!-- Laravel -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-original.svg" alt="codeigniter" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="40" height="40"/>
 </p>
