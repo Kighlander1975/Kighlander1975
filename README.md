@@ -67,9 +67,10 @@ I'm excited about offers as a Junior Developer – especially in web development
 
 - 🔭 **Currently working on**
   - Final project for my developer training (**DBE Final Project**) :white_check_mark:
-  - ~~Relaunch of **pokergiants.de**~~
+  - ~~Relaunch of **pokergiants.de**~~ :x: (Project Abandoned)
   - Relaunch of **enymaxx.de** :hourglass_flowing_sand: (Almost ready)
   - Browser Card Game "Stechen-MMO"
+  - shk-crm :construction: (In Progress, private)
 
 - 🌱 **Currently learning**
   - **React Native** – bringing apps to mobile
