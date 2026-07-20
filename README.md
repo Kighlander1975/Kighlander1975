@@ -68,7 +68,7 @@ I'm excited about offers as a Junior Developer – especially in web development
 - 🔭 **Currently working on**
   - Final project for my developer training (**DBE Final Project**) :white_check_mark:
   - ~~Relaunch of **pokergiants.de**~~
-  - Relaunch of **enymaxx.de**
+  - Relaunch of **enymaxx.de** :hourglass_flowing_sand: (Almost ready)
   - Browser Card Game "Stechen-MMO"
 
 - 🌱 **Currently learning**
